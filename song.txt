@@ -11,3 +11,5 @@ str6
 
 branch master
 
+for tag
+
