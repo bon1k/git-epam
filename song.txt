@@ -8,7 +8,5 @@ str5
 str6
 
 
-conflict
-
-conflict feature
+branch master
 
