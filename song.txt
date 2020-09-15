@@ -9,3 +9,5 @@ str6
 
 for fuc
 commit for fuc
+
+text fot marge
