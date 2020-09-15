@@ -7,4 +7,8 @@ str4
 str5
 str6
 
+
 conflict
+
+conflict feature
+
